@@ -1,0 +1,11 @@
+D:\VsProjects\BaseAnalisis\Analisis.Presentacion\bin\Debug\Analisis.Presentacion.exe.config
+D:\VsProjects\BaseAnalisis\Analisis.Presentacion\bin\Debug\Analisis.Presentacion.exe
+D:\VsProjects\BaseAnalisis\Analisis.Presentacion\bin\Debug\Analisis.Presentacion.pdb
+D:\VsProjects\BaseAnalisis\Analisis.Presentacion\obj\Debug\Analisis.Presentacion.csprojAssemblyReference.cache
+D:\VsProjects\BaseAnalisis\Analisis.Presentacion\obj\Debug\Analisis.Presentacion.FrmLogin.resources
+D:\VsProjects\BaseAnalisis\Analisis.Presentacion\obj\Debug\Analisis.Presentacion.Properties.Resources.resources
+D:\VsProjects\BaseAnalisis\Analisis.Presentacion\obj\Debug\Analisis.Presentacion.csproj.GenerateResource.cache
+D:\VsProjects\BaseAnalisis\Analisis.Presentacion\obj\Debug\Analisis.Presentacion.csproj.CoreCompileInputs.cache
+D:\VsProjects\BaseAnalisis\Analisis.Presentacion\obj\Debug\Analisis.Presentacion.exe
+D:\VsProjects\BaseAnalisis\Analisis.Presentacion\obj\Debug\Analisis.Presentacion.pdb
+D:\VsProjects\BaseAnalisis\Analisis.Presentacion\obj\Debug\Analisis.Presentacion.FrmHome.resources

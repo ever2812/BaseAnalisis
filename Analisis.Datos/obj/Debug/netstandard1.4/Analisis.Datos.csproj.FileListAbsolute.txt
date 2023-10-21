@@ -1,0 +1,8 @@
+D:\VsProjects\BaseAnalisis\Analisis.Datos\bin\Debug\netstandard1.4\Analisis.Datos.deps.json
+D:\VsProjects\BaseAnalisis\Analisis.Datos\bin\Debug\netstandard1.4\Analisis.Datos.dll
+D:\VsProjects\BaseAnalisis\Analisis.Datos\bin\Debug\netstandard1.4\Analisis.Datos.pdb
+D:\VsProjects\BaseAnalisis\Analisis.Datos\obj\Debug\netstandard1.4\Analisis.Datos.csprojAssemblyReference.cache
+D:\VsProjects\BaseAnalisis\Analisis.Datos\obj\Debug\netstandard1.4\Analisis.Datos.csproj.CoreCompileInputs.cache
+D:\VsProjects\BaseAnalisis\Analisis.Datos\obj\Debug\netstandard1.4\Analisis.Datos.AssemblyInfo.cs
+D:\VsProjects\BaseAnalisis\Analisis.Datos\obj\Debug\netstandard1.4\Analisis.Datos.dll
+D:\VsProjects\BaseAnalisis\Analisis.Datos\obj\Debug\netstandard1.4\Analisis.Datos.pdb
